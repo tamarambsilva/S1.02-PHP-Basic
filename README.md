@@ -24,3 +24,32 @@ En este ejercicio se han practicado:
 ### Resultado
 
 El programa muestra los valores de las variables y una constante que contiene mi nombre en formato de título.
+
+----------------------
+
+## Ejercicio 2 - Manipulación de strings
+
+En este ejercicio se han practicado diferentes operaciones con cadenas de texto en PHP:
+
+* Creación y uso de variables de tipo `string`
+* Impresión de una variable con `echo`
+* Conversión de una cadena a mayúsculas con `strtoupper()`
+* Obtención de la longitud de una cadena con `strlen()`
+* Inversión de una cadena con `strrev()`
+* Concatenación de dos cadenas utilizando el operador `.`
+* Uso de `PHP_EOL` para realizar saltos de línea
+
+### Archivo
+
+* `exercise02.php`
+
+### Resultado
+
+El programa muestra el mensaje original, su versión en mayúsculas, su longitud, la cadena invertida y, finalmente, la concatenación con otra cadena de texto.
+
+## Ejercicios
+
+* [x] Ejercicio 1 - Variables y constantes
+* [x] Ejercicio 2 - Manipulación de strings
+* [ ] Ejercicio 3
+* [ ] Ejercicio 4
