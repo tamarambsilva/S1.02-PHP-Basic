@@ -53,3 +53,50 @@ El programa muestra el mensaje original, su versión en mayúsculas, su longitud
 * [x] Ejercicio 2 - Manipulación de strings
 * [ ] Ejercicio 3
 * [ ] Ejercicio 4
+
+
+-----------------------------------------------------
+
+## Ejercicio 3 - Operaciones y funciones
+
+En este ejercicio se han practicado operaciones matemáticas y la creación de funciones en PHP.
+
+### Parte A - Operaciones matemáticas
+
+Se han trabajado:
+
+* Declaración de variables de tipo entero (`int`)
+* Declaración de variables de tipo decimal (`float`)
+* Suma de dos números
+* Resta de dos números
+* Producto de dos números
+* Módulo de números enteros utilizando `%`
+* Módulo de números decimales utilizando `fmod()`
+* Cálculo del doble de cada variable
+* Suma de todas las variables
+* Producto de todas las variables
+
+### Parte B - Funciones
+
+Se ha creado una función llamada `calcular()` que recibe:
+
+* Dos números como parámetros
+* Una operación matemática como tercer parámetro
+
+La función permite realizar:
+
+* Suma
+* Resta
+* Multiplicación
+* División
+
+También se han contemplado casos especiales como la división entre cero y una operación no válida.
+
+### Archivo
+
+* `exercise03.php`
+
+### Resultado
+
+El programa muestra los resultados de las diferentes operaciones matemáticas y permite realizar operaciones mediante una función dependiendo de la operación indicada.
+
