@@ -5,6 +5,8 @@ Sprint 01
 
 Ejercicios de introducción a la programación en PHP.
 
+LEVEL 01
+
 ## Ejercicio 1 - Variables y constantes
 
 En este ejercicio se han practicado:
@@ -144,3 +146,29 @@ Se han practicado:
 ### Resultado
 
 La función clasifica las notas en Primera División, Segunda División, Tercera División o Reprobado según el porcentaje obtenido
+
+==============================================
+==============================================
+
+LEVEL 02
+
+## Ejercicio 1 - Costo de una llamada
+
+En este ejercicio se ha creado una función para calcular el costo de una llamada telefónica según su duración.
+
+Se han practicado:
+
+- Declaración de funciones.
+- Parámetros en funciones.
+- Uso de `if` y `else`.
+- Operaciones matemáticas.
+- Cálculo de minutos adicionales.
+- Uso de `return` para devolver un resultado.
+
+### Archivo
+
+- `phplevel02/exercise01.php`
+
+### Resultado
+
+La función calcula un costo base de 0,10 € para llamadas de menos de 3 minutos y añade 0,05 € por cada minuto adicional a partir de los 3 primeros.
