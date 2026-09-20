@@ -143,4 +143,4 @@ Se han practicado:
 
 ### Resultado
 
-La función clasifica las notas en Primera División, Segunda División, Tercera División o Reprobado según el porcentaje obtenido.
+La función clasifica las notas en Primera División, Segunda División, Tercera División o Reprobado según el porcentaje obtenido
