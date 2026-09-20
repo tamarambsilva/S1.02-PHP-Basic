@@ -172,3 +172,31 @@ Se han practicado:
 ### Resultado
 
 La función calcula un costo base de 0,10 € para llamadas de menos de 3 minutos y añade 0,05 € por cada minuto adicional a partir de los 3 primeros.
+
+_______________________________
+
+### Ejercicio 2 - Clasificación de puntuaciones
+
+En este ejercicio se ha creado un programa para trabajar con tres puntuaciones de un juego.
+
+Se han practicado:
+
+- Creación de funciones.
+- Uso de parámetros.
+- Suma de tres puntuaciones.
+- Cálculo de la media.
+- Uso de `if`, `elseif` y `else`.
+- Clasificación según diferentes rangos de puntuación.
+- Uso de varias funciones para dividir la lógica del programa.
+
+### Archivo
+
+- `phplevel02/exercise02.php`
+
+### Resultado
+
+El programa calcula la suma y la media de las tres puntuaciones y determina la clasificación correspondiente:
+
+- Menos de 4000 puntos: `Principiante`
+- De 4000 a 7999 puntos: `Intermedio`
+- 8000 puntos o más: `Profesional`
