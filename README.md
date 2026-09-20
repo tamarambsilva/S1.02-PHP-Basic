@@ -100,3 +100,47 @@ También se han contemplado casos especiales como la división entre cero y una 
 
 El programa muestra los resultados de las diferentes operaciones matemáticas y permite realizar operaciones mediante una función dependiendo de la operación indicada.
 
+_______________________________
+
+## Ejercicio 4 - Función con repetición
+
+En este ejercicio se ha creado una función que realiza una cuenta progresiva hasta un número determinado.
+
+Se han practicado:
+
+- Declaración de funciones con parámetros.
+- Uso de parámetros con valores predeterminados.
+- Uso de un bucle `for` para repetir una acción.
+- Uso de un segundo parámetro para controlar el incremento de la cuenta.
+- Mostrar los resultados paso a paso con `echo` y `PHP_EOL`.
+
+### Archivo
+
+- `exercise04.php`
+
+### Resultado
+
+La función permite contar hasta un número determinado y, si no se especifica el límite, utiliza 10 como valor predeterminado. También permite indicar el incremento de la cuenta.
+
+_____________________________
+
+## Ejercicio 5 - Función con condicionales
+
+En este ejercicio se ha creado una función para comprobar la nota de un alumno y determinar su división académica.
+
+Se han practicado:
+
+- Declaración de funciones.
+- Parámetros en funciones.
+- Uso de `if`, `elseif` y `else`.
+- Operadores de comparación.
+- Uso de `return` para devolver un resultado.
+- Comprobación de diferentes rangos de notas.
+
+### Archivo
+
+- `exercise05.php`
+
+### Resultado
+
+La función clasifica las notas en Primera División, Segunda División, Tercera División o Reprobado según el porcentaje obtenido.
