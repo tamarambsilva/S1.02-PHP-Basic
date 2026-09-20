@@ -200,3 +200,34 @@ El programa calcula la suma y la media de las tres puntuaciones y determina la c
 - Menos de 4000 puntos: `Principiante`
 - De 4000 a 7999 puntos: `Intermedio`
 - 8000 puntos o más: `Profesional`
+
+================================================
+================================================
+
+LEVEL 03
+
+### Ejercicio 1 - Criba de Eratóstenes
+
+En este ejercicio se ha implementado la Criba de Eratóstenes para encontrar números primos hasta un número determinado.
+
+Se han practicado:
+
+- Creación de funciones.
+- Uso de parámetros.
+- Arrays.
+- Valores booleanos (`true` y `false`).
+- Bucles `for`.
+- Condicionales `if`.
+- Implementación de un algoritmo para encontrar números primos.
+
+### Archivo
+
+- `phplevel02/exercise01.php`
+
+### Resultado
+
+La función recibe un número como parámetro y devuelve todos los números primos comprendidos entre 2 y el número indicado.
+
+Por ejemplo, para el número 20, el resultado es:
+
+2, 3, 5, 7, 11, 13, 17, 19
